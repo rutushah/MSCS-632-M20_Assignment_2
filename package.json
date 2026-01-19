@@ -1,0 +1,21 @@
+{
+  "name": "mscs-632-m20_assignment_2",
+  "version": "1.0.0",
+  "description": "Demonstration of Memory Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rutushah/MSCS-632-M20_Assignment_2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rutushah/MSCS-632-M20_Assignment_2/issues"
+  },
+  "homepage": "https://github.com/rutushah/MSCS-632-M20_Assignment_2#readme"
+}
